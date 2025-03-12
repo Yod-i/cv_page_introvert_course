@@ -1,0 +1,94 @@
+body {
+    background-color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.header {
+    text-align: center;
+}
+
+.avatar {
+    width: 200px;
+}
+
+.header__title {
+    font-size: 28px;
+
+}
+
+.header__subtitle {
+    color: rgb(42, 147, 252);
+}
+
+main {
+    border: 1px solid darkgray;
+    text-align: center;
+}
+
+.skills ol {
+    list-style: none;
+}
+
+.separator {
+    width: 50%;
+    height: 3px;
+}
+
+.video iframe{
+    width: 600px;
+    height: 420px;
+    border: none;
+}
+
+.hobbies li{
+    list-style: none;
+}
+
+.ed__table {
+    border-collapse: collapse ;
+    width: 50%;
+    margin: auto;
+
+}
+
+.ed__table th, .ed__table td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.quote {
+    font-size: 24px;
+}
+
+.form {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.form input{
+    width: 100%;
+
+}
+
+.form__submit {
+    display: block;
+    margin: 0 auto;
+}
+
+.form__control {
+    width: 100%;
+}
+
+.control--text {
+    width: 70%;
+}
+
+footer {
+    text-align: end;
+    font-style: normal;
+    background-color:whitesmoke;
+}
+
+.telegram__link {
+    text-decoration: none;
+}
